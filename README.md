@@ -1,5 +1,5 @@
 # MLFlow: Multimodal Prediction Pipeline
-End-to-end machine learning pipeline for predictive classification using multimodal datasets, including text, numeric, and categorical features. The project implements the full ML lifecycle, from data preprocessing and feature engineering to model training, evaluation, and inference. Designed as a production-style ML workflow, the pipeline emphasizes reproducibility, experimentation, and performance optimization, achieving up to 90% classification accuracy through systematic feature engineering and model tuning.
+End-to-end machine learning pipeline for predictive classification of paintings using multimodal datasets (text, numeric, and categorical features). The project processes 1,600+ structured and unstructured records and implements the full ML lifecycle, from data preprocessing and feature engineering to model training, evaluation, and inference. Designed as a production-style ML workflow, the pipeline emphasizes reproducibility, experimentation, and performance optimization, achieving up to 90% classification accuracy through systematic feature engineering and model tuning.
 
 ## Key Features
 - End-to-end ML workflow (data preprocessing → training → evaluation → inference)
